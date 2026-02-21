@@ -1,0 +1,14 @@
+Phishing Prevention & Awareness Guidelines
+
+DO’s:
+- Verify the sender’s email address before taking action
+- Hover over links to check the actual URL
+- Be cautious of urgent or threatening messages
+- Report suspicious emails to the IT or security team
+- Enable Multi-Factor Authentication (MFA)
+
+DON’Ts:
+- Do not click on unknown or suspicious links
+- Do not share passwords or OTPs through email
+- Do not download attachments from unknown senders
+- Do not panic or rush when reading security alerts

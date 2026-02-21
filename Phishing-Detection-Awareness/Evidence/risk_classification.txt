@@ -1,0 +1,11 @@
+Email Risk Classification
+
+Email Type: Social Media Follower Notification
+
+Risk Level: PHISHING
+
+Justification:
+The email contains multiple phishing indicators including a fake sender domain,
+urgent language, suspicious external links, generic greeting, and failed email
+authentication checks (SPF and DKIM). These characteristics confirm that the
+email is a phishing attempt designed to trick users into clicking malicious links.

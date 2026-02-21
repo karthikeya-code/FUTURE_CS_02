@@ -1,0 +1,8 @@
+How the Phishing Attack Works
+
+1. The attacker sends a fake email pretending to be a social media platform.
+2. The email claims that 3 people have started following the user.
+3. The message creates curiosity and urgency to make the user act quickly.
+4. The user clicks the provided link without verifying the sender.
+5. The link redirects the user to a fake website controlled by the attacker.
+6. The attacker may steal login credentials or personal information.

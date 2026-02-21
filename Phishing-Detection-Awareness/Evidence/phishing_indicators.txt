@@ -1,0 +1,12 @@
+Email Sample: Social Media Follower Alert
+
+Indicator                         | Found (Yes/No)
+----------------------------------|---------------
+Generic greeting                  | Yes
+Urgency or pressure language      | Yes
+Suspicious sender domain          | Yes
+Link does not match real platform | Yes
+Threat or warning message         | Yes
+SPF authentication failed         | Yes
+DKIM authentication missing/fail | Yes
+Unexpected email context          | Yes

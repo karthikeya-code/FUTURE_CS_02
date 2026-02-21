@@ -1,0 +1,14 @@
+Subject: Payment Failed – Immediate Attention Required
+
+Dear Customer,
+
+Your recent payment attempt was unsuccessful.
+To avoid service interruption, please update your billing details immediately.
+
+Update payment information here:
+http://secure-billing-update[.]net
+
+If no action is taken, your subscription will be cancelled.
+
+Thank you,
+Billing Support Team
